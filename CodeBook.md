@@ -6,12 +6,13 @@ Code Book  of course project - getting and cleaning data
 Aim of the data processing was a tidy data set (group_mean_subject_activity_tidy.csv)
 that contains the average of each variable for each activity and each subject. 
 If you run run_analysis.R the new data set will be written to your local hard drive. 
-See README.MD for instructions on running the script, context and origin of the data
-To obtain the data go to:
+See README.md for instructions on running the script, context and origin of the data
+
+**To obtain the data go to:**
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-To run the analysis (run_analysis.R) you will need the following input data from there:
+**To run the analysis (run_analysis.R) you will need the following input data from there:**
 
 'features.txt': List of all features.
 
