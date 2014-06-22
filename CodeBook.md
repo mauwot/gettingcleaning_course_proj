@@ -2,11 +2,13 @@ Code Book  of course project - getting and cleaning data
 ========================================================
 
 **Data description**
+
 Aim of the data processing was a tidy data set (group_mean_subject_activity_tidy.csv)
 that contains the average of each variable for each activity and each subject. 
 If you run run_analysis.R the new data set will be written to your local hard drive. 
 See README.MD for instructions on running the script, context and origin of the data
 To obtain the data go to:
+
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 To run the analysis (run_analysis.R) you will need the following input data from there:
@@ -25,11 +27,15 @@ To run the analysis (run_analysis.R) you will need the following input data from
 
 
 **The repository includes the following files:**
+
 README.md
+
 CodeBook.md (this file)
+
 run_analysis.R (to compute the new tidy data set)
 
 **output**
+
 group_mean_subject_activity_tidy.csv
 
 **output variables**
@@ -62,4 +68,4 @@ The data set was merged (train and test) and summarized from 563 different varia
 
 subject_id represets 30 participant of the study and their activities (activity_class): 
 
-The variables represent average values of the original data set variables for all means and standard derivations of the measurements. Variable names where changed by replacing "()", "-","," by "_"and capital letters were changed to lower case.
+The variables represents average values of the original data set variables for all means and standard derivations of the measurements. Variable names where changed by replacing "()", "-","," by "_"and capital letters were changed to lower case.
