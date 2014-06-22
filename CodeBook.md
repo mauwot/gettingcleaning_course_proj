@@ -67,6 +67,6 @@ The data set was merged (train and test) and summarized from 563 different varia
 [64] "fbodybodyaccjerkmag_std_"   "fbodybodygyromag_mean_"     "fbodybodygyromag_std_"     
 [67] "fbodybodygyrojerkmag_mean_" "fbodybodygyrojerkmag_std_" 
 
-subject_id represets 30 participant of the study and their activities (activity_class): 
+subject_id represents 30 participant of the study and their activities (activity_class): 
 
 The variables represent average values of the original data set variables for all means and standard derivations of the measurements. Variable names where changed by replacing "()", "-","," by "_"and capital letters were changed to lower case.
