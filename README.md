@@ -4,7 +4,7 @@ readme of course project - getting and cleaning data
 This is the readme file in markdown format describing the programming steps of the R-script provided in 
 this repro.
 
-**skript name:** run_analysis.R
+**script name:** run_analysis.R
 
 **purpose:** merge, clean and summarize the data set provided by [1]Anguita et al. (2012): 
 
@@ -12,6 +12,7 @@ this repro.
 
 **input**:
 features.txt
+activity_labels.txt
 
 X_test.txt
 subject_test.txt
