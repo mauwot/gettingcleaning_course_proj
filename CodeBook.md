@@ -68,4 +68,4 @@ The data set was merged (train and test) and summarized from 563 different varia
 
 subject_id represets 30 participant of the study and their activities (activity_class): 
 
-The variables represents average values of the original data set variables for all means and standard derivations of the measurements. Variable names where changed by replacing "()", "-","," by "_"and capital letters were changed to lower case.
+The variables represent average values of the original data set variables for all means and standard derivations of the measurements. Variable names where changed by replacing "()", "-","," by "_"and capital letters were changed to lower case.
